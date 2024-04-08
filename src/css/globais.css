@@ -7,3 +7,9 @@ html {
     font-weight: 300;
     scroll-behavior: smooth;
   }
+
+  body {
+    background-color: var(--cor-de-fundo-cinza-escuro);
+    font-family: var(--fonte-primaria);
+    font-size: var(--fonte-normal);
+  }
